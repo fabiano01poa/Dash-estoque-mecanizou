@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard Gerencial e Indicadores",
+  "description": "Dashboard de informação gerencial para tomada de decisão em tempo real com base em planilha de recebimento e saída, filtros avançados, alertas automáticos e exportação PDF/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
